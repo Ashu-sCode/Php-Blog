@@ -32,6 +32,7 @@ A lightweight PHP blog system built without frameworks. Ideal for beginners who 
 │
 ├── uploads/ # Uploaded post images
 │
+├── blog.sql # sql schema commands
 ├── create.php # Create new post
 ├── edit.php # Edit a post
 ├── delete.php # Delete post by ID
