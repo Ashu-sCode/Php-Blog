@@ -1,4 +1,6 @@
-# 📝 Simple PHP Blog with Admin Dashboard
+# 📝 Simple PHP Blog with Admin Dashboard  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 A lightweight PHP blog system built without frameworks. Ideal for beginners who want to learn the full stack (PHP + MySQL + Bootstrap) while practicing CRUD, session handling, image upload, and basic security.
 
