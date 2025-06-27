@@ -49,9 +49,10 @@ cd simple-php-blog
 ```
 
 ### 2. Import the Database
-
-   1.Create a MySQL database (e.g. simple_blog)
-   2.Import the blog.sql (you'll create/export this from phpMyAdmin)
+```bash
+1.Create a MySQL database (e.g. simple_blog)
+2.Import the blog.sql 
+```
 
 ### 3. Set Up Config
 Edit db.php with your DB credentials:
